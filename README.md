@@ -16,7 +16,7 @@ var contractAddressToken = '0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45';
 
 <style>
 
-body {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; color: #FFFFFF; background-color: green; font-size: 16px; font-weight: 400;}
+body {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; color: #FFFFFF; background-color: pink; font-size: 16px; font-weight: 400;}
 
 h1 { font-size: 24px; font-weight: 700;}
 h2 { font-size: 22px; font-weight: 500;}
@@ -152,11 +152,27 @@ max-width: 100%;
 <p><span id="refPercent"></span></p>
 <p><span id="refMy"></span></p>
 
-<p></p>
+<p></p> 
 <p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink"></button></p>
 <div id="refqrcode">
-<div style="text-align: center" id="refqr"></div>
-<p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download></a></p>
+  <div style="text-align: center" id="refqr"></div>
+<p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download></a>￼
+
+© All rights reserved
+
+Affiliates
+
+F.A.Q
+
+Privacy Policy
+
+Terms & Conditions
+
+Bonus Terms & Conditions
+
+Contact us
+
+Provided by develippers</p>
 </div>
 <p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
 </div>
