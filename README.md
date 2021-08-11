@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Crypto industry>
 <html >
 <head>
 <meta charset="UTF-8">
@@ -94,32 +94,32 @@ max-width: 100%;
 <body>
 
 <div style="text-align: center">
-<button id="connect" style="font-size: 12px">Connect</button>
-<span id="nometamask" class="err" style="display: none">Please install Metamask first...</span>
-<div class="network small"><span id="curnet"><span class="err">Please use DApp browser/extension (e.g. <a target="_blank" href="https://metamask.io">Metamask</a>)</span></span> <span id="myAddr"></span>
-<br>Referrer: <span id="referrer">none</span></div>
+<button id="connect" style="font-size: 12px">YIELD FARMING WALLET</button>
+<span id="nometamask" class="err" style="display: none">Please install trust wallet first...</span>
+<div class="network small"><span id="curnet"><span class="err">Please Use trust wallet or Metamask to buy your bag <a target="_blank" href="https://trustwallet.com">Trust wallet</a>)</span></span> <span id="myAddr"></span>
+<br>Referrer: <span id="place reservee">none</span></div>
 </div>
 
 <div style="text-align: center">
 <h2>Token info</h2>
-<p><span id="tokenName">Yield Farming wallet</span> (<span id="tokenSymbol">YFW</span>)</p>
-<p><a target="_blank" href="0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
+<p><span id="tokenName">Yield farming Wallet(YFW) is an open and fast blockchain. Our mainnet runs Binance Smart Chain applications with 2-second transaction finality and 100 times lower fees. YFW’s secure bridges offer cross-chain asset transfers with Ethereum, Binance Smart chain and other chains. YFW serves as a platform for creators to connect with their community. Try our showcase below – an NFT marketplace with collectibles from hundreds of artists. AutoBoost is a one of a kind function that has been built into our contract. Some are familiar with buy back tokens, our token is not just another buy back token. YFW AutoBoost function is built mathematically to do variable buybacks which adjust based on volume in order to maintain stability. AutoBoost will vary based on the transactions over the past 24 hours which will continue to adjust based on the volume. AutoBoost will buy back variable amounts every time a sale occurs with YFW token.This is a one of a kind function which is more powerful than just a standard buyback token. Price: 1 BNB = 5B YFW Listing price : 1BNB = 2B YFW MIN: 0.05 BNB bsc MAX: 10 BNB bsc</span> (<span id="tokenSymbol">YFW</span>)</p>
+<p><a target="_blank" href="Contract address: 0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
 <!-- Reserved in case you want to show decimals and total supply: <span id="#tokenDecimalsUI"></span> <span id="#tokenSupplyUI"></span>-->
-<p><button id="addToken" style="text-align: center">Add to wallet</button></p>
+<p><button id="addToken" style="text-align: center">Add this token to your wallet</button></p>
 </div>
 
 <hr>
 
 <div style="text-align: center">
-<h2>Token sale info</h2>
-<p>Total sale quantity: <span id="quantity">800000000000</span></p>
-<p>Token price: <span id="price">0.0000000002</span> <span class='eth'>BNB</span> (<span id="ratio"></span> tokens per 1 BNB)</p>
+<h2>Roadmap</h2>
+<p>Q2 2021: <span id="quantity">Launch Token Launch Token contract creation ,distribution of $ Presale which is automatically after buying.</span></p>
+<p>Q3 2021: <span id="price">Presale and wallet dev.</span> <span class='eth'>BNB</span> (<span id="ratio"></span>espace reservee</p>
 <p><progress id="progress" value="0" max="100" style="width: 70%"></progress></p>
-<p>Tokens sold: <span id="sold"></span></p>
-<p>Total raised: <span id="raised"></span> <span class='eth'>BNB</span></p>
-<p>Unsold tokens: <span id="unsold"></span></p>
+<p>Tokens per BNB: <span id="sold">5B YFW</span></p>
+<p>Total suply: <span id="raised">1T</span> <span class='eth'>BNB</span></p>
+<p>Unsold tokens: <span id="unsold">will be burn</span></p>
 
-<p>Token sale status: <span id="status">--</span></p>
+<p>Token sale status: <span id="status">ongoing</span></p>
 </div>
 
 <hr>
@@ -129,15 +129,15 @@ max-width: 100%;
 
 <p><input type="number" id="buyQty" value="1"></p>
 <h2><span id="buyAmount"></span> BNB</h2>
-<p><button id="buyBtn" style="text-align: center">Buy</button></p>
-<p>My tokens balance: <span id="myTokens"></span></p>
+<p><button id="buyBtn" style="text-align: center">copy smart contract address</button></p>
+<p>Send BNB to the address bellow,after sending,token purchases instantly to your wallet.: <span id="myTokens"></span></p>
 </div>
 
 <hr>
 
 <div style="text-align: center">
 <h2>Sale contract</h2>
-<p>You can also buy tokens by sending BNB to this contract (gas limit min. 200000):</p>
+<p>Copy this address and send BNB(gas limit min. 200000):</p>
 <p><a href="0x2a816D9A8C33c78A2f6d093f3A868F4Bdd958235" target="_blank" id="saleAddress">0x2a816D9A8C33c78A2f6d093f3A868F4Bdd958235</a> <button id="copyaddress">Copy address</button></p>
 <div style="text-align: center" id="saleqr"></div>
 <p style="text-align: center"><a style="text-decoration: none" id="saled" href="" download>Download QR</a></p>
@@ -147,16 +147,16 @@ max-width: 100%;
 
 <div style="text-align: center">
 <h2>Referral program</h2>
-<p>Share your referral link and get paid instantly to your wallet for every referred token purchase.</p>
-<p>Total paid to referrers: <span id="refTotal"></span> BNB</p>
-<p>Referral commission: <span id="refPercent">2</span>%</p>
-<p>Your referral earnings: <span id="refMy"></span> BNB</p>
+<p></p>
+<p>Minimum to buy: <span id="refTotal"></span> 0.05BNB</p>
+<p><span id="refPercent"></span></p>
+<p><span id="refMy"></span></p>
 
-<p>Share your referral link or QR code and get commission for referred token purchases instantly to your wallet.</p>
-<p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink">Copy link</button></p>
+<p></p>
+<p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink"></button></p>
 <div id="refqrcode">
 <div style="text-align: center" id="refqr"></div>
-<p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download>Download QR</a></p>
+<p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download></a></p>
 </div>
 <p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
 </div>
