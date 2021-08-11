@@ -16,7 +16,7 @@ var contractAddressToken = '0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45';
 
 <style>
 
-body {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; color: #FFFFFF; background-color: blue; font-size: 16px; font-weight: 400;}
+body {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; color: #FFFFFF; background-color: brun; font-size: 16px; font-weight: 400;}
 
 h1 { font-size: 24px; font-weight: 700;}
 h2 { font-size: 22px; font-weight: 500;}
@@ -116,7 +116,7 @@ max-width: 100%;
 <p>Q3 2021: <span id="price">Presale and wallet dev.</span> <span class='eth'>BNB</span> (<span id="ratio"></span>espace reservee</p>
 <p><progress id="progress" value="0" max="100" style="width: 70%"></progress></p>
 <p>Tokens per BNB: <span id="sold">5B YFW</span></p>
-<p>Total suply: <span id="raised">1T</span> <span class='eth'>BNB</span></p>
+<p>Total suply: <span id="raised">1T</span> <span class='eth'></span></p>
 <p>Unsold tokens: <span id="unsold">will be burn</span></p>
 
 <p>Token sale status: <span id="status">ongoing</span></p>
