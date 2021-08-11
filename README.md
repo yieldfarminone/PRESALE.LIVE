@@ -97,7 +97,7 @@ max-width: 100%;
 <button id="connect" style="font-size: 12px">YIELD FARMING WALLET</button>
 <span id="nometamask" class="err" style="display: none">Please install trust wallet first...</span>
 <div class="network small"><span id="curnet"><span class="err">Please Use trust wallet or Metamask to buy your bag <a target="_blank" href="https://trustwallet.com">Trust wallet</a>)</span></span> <span id="myAddr"></span>
-<br>Referrer: <span id="place reservee">none</span></div>
+<br><span id="place reservee"></span></div>
 </div>
 
 <div style="text-align: center">
