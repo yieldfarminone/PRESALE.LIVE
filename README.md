@@ -146,7 +146,7 @@ max-width: 100%;
 <hr>
 
 <div style="text-align: center">
-<h2>Referral program</h2>
+<h2></h2>
 <p></p>
 <p>Minimum to buy: <span id="refTotal"></span> 0.05BNB</p>
 <p><span id="refPercent"></span></p>
