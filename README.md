@@ -172,7 +172,7 @@ Bonus Terms & Conditions
 
 Contact us
 
-Provided by develippers</p>
+Provided by developers</p>
 </div>
 <p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
 </div>
