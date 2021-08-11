@@ -174,7 +174,7 @@ Contact us
 
 Provided by developers</p>
 </div>
-<p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
+<p id="refErr" class="err" style="display: none"></p>
 </div>
 
 <script src='https://dappbuilder.org/js/jquery-3.6.0.min.js' type="text/javascript" charset="utf-8"></script>
