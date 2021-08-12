@@ -131,17 +131,17 @@ max-width: 100%;
 <div style="text-align: center">
 <h2>Buy tokens</h2>
 
-<p><input type="number" id="buyQty" value="1"></p>
+<p><input type="number" id="buyQty" value="0.05"></p>
 <h2><span id="buyAmount"></span> BNB</h2>
 <p><button id="buyBtn" style="text-align: center">Buy</button></p>
-<p>Send BNB to the address bellow,after sending,token purchases instantly to your wallet.: <span id="myTokens"></span></p>
+<p>My tokens balance: <span id="myTokens"></span></p>
 </div>
 
 <hr>
 
 <div style="text-align: center">
 <h2>Sale contract</h2>
-<p>Copy this address and send BNB(gas limit min. 200000):</p>
+<p>You can also buy tokens by sending BNB to this contract (gas limit min. 200000):</p>
 <p><a href="0x2a816D9A8C33c78A2f6d093f3A868F4Bdd958235" target="_blank" id="saleAddress">0x2a816D9A8C33c78A2f6d093f3A868F4Bdd958235</a> <button id="copyaddress">Copy address</button></p>
 <div style="text-align: center" id="saleqr"></div>
 <p style="text-align: center"><a style="text-decoration: none" id="saled" href="" download>Download QR</a></p>
@@ -150,14 +150,14 @@ max-width: 100%;
 <hr>
 
 <div style="text-align: center">
-<h2></h2>
-<p></p>
-<p> <span id="refTotal">Referrals:</span></p>
-<p><span id="refPercent">Commission:</span>20</p>
-<p><span id="refMy">Earnings</span></p>
+<h2>Referral program</h2>
+<p>Share your referral link and get paid instantly to your wallet for every referred token purchase.</p>
+<p> Total paid to referrers: <span id="refTotal">Referrals:</span></p>
+<p>Referral commission: <span id="refPercent">Commission:</span>20</p>
+<p>Your referral earnings: <span id="refMy">Earnings</span></p>
 
-<p></p> 
-<p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink">Copy link to invite</button></p>
+<p>Share your referral link or QR code and get commission for referred token purchases instantly to your wallet.</p> 
+<p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink">Copy link</button></p>
 <div id="refqrcode">
   <div style="text-align: center" id="refqr"></div>
 <p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download></a>￼
