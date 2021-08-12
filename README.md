@@ -110,13 +110,13 @@ max-width: 100%;
  <p>MAX: 10 BNB bsc <span id="tokenSymbol"></span></p>
 <p><a target="_blank" href="Contract address: 0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
 <!-- Reserved in case you want to show decimals and total supply: <span id="#tokenDecimalsUI">9</span> <span id="#tokenSupplyUI">1T</span>-->
-<p><button id="addToken" style="text-align: center">Buy</button></p>
+<p><button id="addToken" style="text-align: center">Add to your wallet</button></p>
 
 <hr>
 
 <div style="text-align: center">
 <h2>Roadmap</h2>
-<p>Q2 2021: <span id="quantity">Launch Token Launch Token contract creation ,distribution of $ Presale which is automatically after buying.</span></p>
+<p>Q2 2021: <span id="quantity">Launch Token Launch Token contract creation,distribution of $ Presale which is automatically after buying.</span></p>
 <p>Q3 2021: <span id="price">Presale and wallet dev.</span> <span class='eth'></span> <span id="ratio"></span></p>
 <p><progress id="progress" value="0" max="100" style="width: 70%"></progress></p>
 <p>Tokens per BNB: <span id="sold">5B YFW</span></p>
@@ -133,7 +133,7 @@ max-width: 100%;
 
 <p><input type="number" id="buyQty" value="1"></p>
 <h2><span id="buyAmount"></span> BNB</h2>
-<p><button id="buyBtn" style="text-align: center">copy smart contract address</button></p>
+<p><button id="buyBtn" style="text-align: center">Buy</button></p>
 <p>Send BNB to the address bellow,after sending,token purchases instantly to your wallet.: <span id="myTokens"></span></p>
 </div>
 
