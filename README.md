@@ -130,7 +130,7 @@ max-width: 100%;
 
 <div style="text-align: center">
 <h2>Buy tokens</h2>
-<p>Minimum Buy: <span id="myTokens">250000000 For 0.05 BNB</span></p>
+<p>Minimum Buy: <span id="myTokens">25M</span></p>
 <p><input type="number" id="buyQty" value="250000000"></p>
 <h2><span id="buyAmount"></span> BNB</h2>
 <p><button id="buyBtn" style="text-align: center">Buy</button></p>
@@ -161,7 +161,9 @@ max-width: 100%;
 <div id="refqrcode">
   <div style="text-align: center" id="refqr"></div>
 <p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download></a>￼
-
+</div>
+<p id="refErr" class="err" style="display: none"></p>
+</div>
 © All rights reserved
 
 Affiliates
