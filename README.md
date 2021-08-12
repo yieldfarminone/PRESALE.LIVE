@@ -119,11 +119,11 @@ max-width: 100%;
 <p>Total sale quantity<span id="quantity">Launch Token Launch Token contract creation,distribution of $ Presale which is automatically after buying.</span></p>
 <p>Token price:<span id="price">Presale and wallet dev.</span> <span class='eth'></span> <span id="ratio"></span></p>
 <p><progress id="progress" value="0" max="100" style="width: 70%"></progress></p>
-<p>Tokens per BNB: <span id="sold">5B YFW</span></p>
-<p>Total suply: <span id="raised">1T</span> <span class='eth'></span></p>
-<p>Unsold tokens: <span id="unsold">will be burn</span></p>
+<p>Tokens sold: <span id="sold">5B YFW</span></p>
+<p>Total raised:<span id="raised">1T</span> <span class='eth'></span></p>
+<p>Unsold tokens:  <span id="unsold">will be burn</span></p>
 
-<p>Token sale status: <span id="status">ongoing</span></p>
+<p>Token sale status: <span id="status">ON</span></p>
 </div>
 
 <hr>
