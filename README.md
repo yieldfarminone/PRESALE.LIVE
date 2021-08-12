@@ -116,7 +116,7 @@ max-width: 100%;
 
 <div style="text-align: center">
 <h2>Token sale info</h2>
-<p>Total sale quantity<span id="quantity">Launch Token Launch Token contract creation,distribution of $ Presale which is automatically after buying.</span></p>
+<p>Total sale quantity: <span id="quantity">Launch Token Launch Token contract creation,distribution of $ Presale which is automatically after buying.</span></p>
 <p>Token price:<span id="price">Presale and wallet dev.</span> <span class='eth'></span> <span id="ratio"></span></p>
 <p><progress id="progress" value="0" max="100" style="width: 70%"></progress></p>
 <p>Tokens sold: <span id="sold">5B YFW</span></p>
