@@ -109,7 +109,7 @@ max-width: 100%;
  <p>Listing price : 1BNB = 2B YFW 
   
  <p>MIN: 0.05 BNB bsc 
- <p>MAX: 10 BNB bsc</span> <span id="tokenSymbol"></span></p>
+ <p>MAX: 10 BNB bsc</span> <span id="tokenSymbol"><></p>
 <p><a target="_blank" href="Contract address: 0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
 <!-- Reserved in case you want to show decimals and total supply: <span id="#tokenDecimalsUI"></span> <span id="#tokenSupplyUI"></span>-->
 <p><button id="addToken" style="text-align: center">Add this token to your wallet</button></p>
