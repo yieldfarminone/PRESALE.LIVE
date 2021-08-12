@@ -160,9 +160,9 @@ max-width: 100%;
 <div id="refqrcode">
   <div style="text-align: center" id="refqr"></div>
 <p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download></a>￼
-</div>
+
 <p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
-</div>
+
 © All rights reserved
 
 Affiliates
