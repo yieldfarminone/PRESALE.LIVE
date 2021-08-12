@@ -157,7 +157,7 @@ max-width: 100%;
 <p><span id="refMy"></span></p>
 
 <p></p> 
-<p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink"></button></p>
+<p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink">Copy link to invite</button></p>
 <div id="refqrcode">
   <div style="text-align: center" id="refqr"></div>
 <p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download></a>￼
