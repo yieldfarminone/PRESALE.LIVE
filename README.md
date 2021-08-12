@@ -130,8 +130,8 @@ max-width: 100%;
 
 <div style="text-align: center">
 <h2>Buy tokens</h2>
-
-<p><input type="number" id="buyQty" value="0.05"></p>
+<p>Minimum Buy: <span id="myTokens">250000000 For 0.05 BNB</span></p>
+<p><input type="number" id="buyQty" value="250000000"></p>
 <h2><span id="buyAmount"></span> BNB</h2>
 <p><button id="buyBtn" style="text-align: center">Buy</button></p>
 <p>My tokens balance: <span id="myTokens"></span></p>
