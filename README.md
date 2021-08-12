@@ -152,7 +152,7 @@ max-width: 100%;
 <div style="text-align: center">
 <h2></h2>
 <p></p>
-<p>Minimum to buy: <span id="refTotal"></span> 0.05BNB</p>
+<p> <span id="refTotal"></span></p>
 <p><span id="refPercent"></span></p>
 <p><span id="refMy"></span></p>
 
