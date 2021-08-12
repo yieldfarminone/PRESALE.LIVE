@@ -152,7 +152,7 @@ max-width: 100%;
 <h2>Referral program</h2>
 <p>Share your referral link and get paid instantly to your wallet for every referred token purchase.</p>
 
-<p>Referral commission: <span id="refPercent">Commission:</span></p>
+<p>Referral commission: <span id="refPercent">Commission:</span>%</p>
 <p>Your referral earnings: <span id="refMy">Earnings</span> BNB</p>
 
 <p>Share your referral link or QR code and get commission for referred token purchases instantly to your wallet.</p> 
@@ -163,21 +163,8 @@ max-width: 100%;
 
 <p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
 
-© All rights reserved
-
-Affiliates
-
-F.A.Q
-
-Privacy Policy
-
-Terms & Conditions
-
-Bonus Terms & Conditions
-
-Contact us
-
-Provided by developers</p>
+© All rights reserved 2021
+</p>
 </div>
 <p id="refErr" class="err" style="display: none"></p>
 </div>
