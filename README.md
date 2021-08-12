@@ -151,7 +151,7 @@ max-width: 100%;
 <div style="text-align: center">
 <h2>Referral program</h2>
 <p>Share your referral link and get paid instantly to your wallet for every referred token purchase.</p>
-<p> Total paid to referrers: <span id="refTotal">Referrals:</span></p>
+
 <p>Referral commission: <span id="refPercent">Commission:</span></p>
 <p>Your referral earnings: <span id="refMy">Earnings</span> BNB</p>
 
