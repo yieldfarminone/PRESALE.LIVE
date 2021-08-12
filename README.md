@@ -115,18 +115,18 @@ max-width: 100%;
 <hr>
 
 <div style="text-align: center">
-<h2>Token sale info</h2>
-<p>Total sale quantity: <span id="quantity">Launch Token Launch Token contract creation,distribution of $ Presale which is automatically after buying.</span></p>
-<p>Token price:<span id="price">Presale and wallet dev.</span> <span class='eth'></span> <span id="ratio"></span></p>
-<p><progress id="progress" value="0" max="100" style="width: 70%"></progress></p>
-<p>Tokens sold: <span id="sold">5B YFW</span></p>
-<p>Total raised:<span id="raised">1T</span> <span class='eth'></span></p>
-<p>Unsold tokens:  <span id="unsold">will be burn</span></p>
-
-<p>Token sale status: <span id="status">ON</span></p>
-</div>
-
-<hr>
+        <h2>Token sale info</h2>
+        <p>Total sale quantity::<span id="quantity">800000000000</span></p>
+        <p>Token price: <span id="price">0.0000000002</span> <span class='eth'>BNB</span> (<span id="ratio"></span> tokens per 1 BNB)</p>
+        <p><progress id="progress" value="0" max="100" style="width: 70%"></progress></p>
+        <p>Tokens sold: <span id="sold"></span></p>
+        <p>Total raised: <span id="raised"></span> <span class='eth'>BNB</span></p>
+        <p>Unsold tokens: <span id="unsold"></span></p>
+        
+        <p>Token sale status: <span id="status">--</span></p>
+    </div>
+    
+    <hr>
 
 <div style="text-align: center">
 <h2>Buy tokens</h2>
