@@ -105,7 +105,7 @@ max-width: 100%;
 <p><span id="tokenName">Yield farming Wallet(YFW) is an open and fast blockchain. Our mainnet runs Binance Smart Chain applications with 2-second transaction finality and 100 times lower fees. YFW’s secure bridges offer cross-chain asset transfers with Ethereum, Binance Smart chain and other chains. YFW serves as a platform for creators to connect with their community. Try our showcase below – an NFT marketplace with collectibles from hundreds of artists. 
   
   
-  Price: 1 BNB = 5B YFW 
+                                                                                                                                                                       Price: 1 BNB = 5B YFW 
   
   Listing price : 1BNB = 2B YFW 
   
