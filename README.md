@@ -102,15 +102,14 @@ max-width: 100%;
 
 <div style="text-align: center">
 <h2>Token info</h2>
-<p><span id="tokenName">Yield farming Wallet(YFW) is an open and fast blockchain. Our mainnet runs Binance Smart Chain applications with 2-second transaction finality and 100 times lower fees. YFW’s secure bridges offer cross-chain asset transfers with Ethereum, Binance Smart chain and other chains. YFW serves as a platform for creators to connect with their community. Try our showcase below – an NFT marketplace with collectibles from hundreds of artists. 
+<p><span id="tokenName">Yield farming Wallet(YFW) is an open and fast blockchain. Our mainnet runs Binance Smart Chain applications with 2-second transaction finality and 100 times lower fees. YFW’s secure bridges offer cross-chain asset transfers with Ethereum, Binance Smart chain and other chains. YFW serves as a platform for creators to connect with their community. Try our showcase below – an NFT marketplace with collectibles from hundreds of artists. </span> <span id="tokenSymbol"></span></p>
   
+ Price: 1 BNB = 5B YFW 
   
-                                                                                                                                                                       Price: 1 BNB = 5B YFW 
+ Listing price : 1BNB = 2B YFW 
   
-  Listing price : 1BNB = 2B YFW 
-  
-  MIN: 0.05 BNB bsc 
-  MAX: 10 BNB bsc</span> <span id="tokenSymbol"></span></p>
+ MIN: 0.05 BNB bsc 
+ MAX: 10 BNB bsc</span> <span id="tokenSymbol"></span></p>
 <p><a target="_blank" href="Contract address: 0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
 <!-- Reserved in case you want to show decimals and total supply: <span id="#tokenDecimalsUI"></span> <span id="#tokenSupplyUI"></span>-->
 <p><button id="addToken" style="text-align: center">Add this token to your wallet</button></p>
