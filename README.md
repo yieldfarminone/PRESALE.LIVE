@@ -130,7 +130,6 @@ max-width: 100%;
 
 <div style="text-align: center">
 <h2>Buy tokens</h2>
-<p>Minimum Buy: <span id="myTokens">25M</span></p>
 <p><input type="number" id="buyQty" value="250000000"></p>
 <h2><span id="buyAmount"></span> BNB</h2>
 <p><button id="buyBtn" style="text-align: center">Buy</button></p>
@@ -153,8 +152,8 @@ max-width: 100%;
 <h2>Referral program</h2>
 <p>Share your referral link and get paid instantly to your wallet for every referred token purchase.</p>
 <p> Total paid to referrers: <span id="refTotal">Referrals:</span></p>
-<p>Referral commission: <span id="refPercent">Commission:</span>20</p>
-<p>Your referral earnings: <span id="refMy">Earnings</span></p>
+<p>Referral commission: <span id="refPercent">Commission:</span></p>
+<p>Your referral earnings: <span id="refMy">Earnings</span> BNB</p>
 
 <p>Share your referral link or QR code and get commission for referred token purchases instantly to your wallet.</p> 
 <p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink">Copy link</button></p>
@@ -162,7 +161,7 @@ max-width: 100%;
   <div style="text-align: center" id="refqr"></div>
 <p style="text-align: center"><a style="text-decoration: none" id="refd" href="" download></a>￼
 </div>
-<p id="refErr" class="err" style="display: none"></p>
+<p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
 </div>
 © All rights reserved
 
