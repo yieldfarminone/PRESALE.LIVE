@@ -152,9 +152,9 @@ max-width: 100%;
 <div style="text-align: center">
 <h2></h2>
 <p></p>
-<p> <span id="refTotal"></span></p>
-<p><span id="refPercent"></span></p>
-<p><span id="refMy"></span></p>
+<p> <span id="refTotal">Referrals:</span></p>
+<p><span id="refPercent">Commission:</span>20</p>
+<p><span id="refMy">Earnings</span></p>
 
 <p></p> 
 <p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink">Copy link to invite</button></p>
