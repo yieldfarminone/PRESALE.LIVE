@@ -36,7 +36,7 @@ BIG PRE-SALE OF 2021
         }
         
         a {
-          color: blue;
+          color: black;
           text-decoration: none;
         }
         
