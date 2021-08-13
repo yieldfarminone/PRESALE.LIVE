@@ -49,7 +49,7 @@ THE GREAT PRE-SALE
         }
         
         .clickable:hover {
-            color: yellow;
+            color: white;
         }
         
         button {
