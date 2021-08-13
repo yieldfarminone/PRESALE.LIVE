@@ -49,7 +49,7 @@ BIG PRE-SALE OF 2021
         }
         
         .clickable:hover {
-            color: #C0C0C0;
+            color: #blue;
         }
         
         button {
@@ -67,7 +67,7 @@ BIG PRE-SALE OF 2021
         }
         
         button:hover {
-          background-color: #008000;
+          background-color: yellow;
         }
         
         button[disabled] {
