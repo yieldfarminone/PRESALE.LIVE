@@ -36,7 +36,7 @@ BIG PRE-SALE OF 2021
         }
         
         a {
-          color: black;
+          color: white;
           text-decoration: none;
         }
         
@@ -84,7 +84,7 @@ BIG PRE-SALE OF 2021
         input {
           text-align: center;
           font-size: 18px;
-          background-color: #000000;
+          background-color: white;
           color: #FFFFFF;
           border:1px solid;
           max-width: 100%;
