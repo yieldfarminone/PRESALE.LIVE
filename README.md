@@ -28,7 +28,7 @@ THE GREAT PRE-SALE
         }
 
         .err {
-             color: yellow;
+             color: white;
         }
 
         * {
