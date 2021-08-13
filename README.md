@@ -36,7 +36,7 @@ THE GREAT PRE-SALE
         }
         
         a {
-          color: white;
+          color: black;
           text-decoration: none;
         }
         
