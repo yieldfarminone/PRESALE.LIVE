@@ -109,7 +109,7 @@ THE GREAT PRE-SALE
         <p><a target="_blank" href="0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
         <!-- Reserved in case you want to show decimals and total supply: <span id="#tokenDecimalsUI"></span> <span id="#tokenSupplyUI"></span>-->
         <p><button id="addToken" style="text-align: center">Add to wallet</button></p>
-    </div>
+    
     
     <hr>
     
