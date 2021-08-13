@@ -18,7 +18,7 @@ THE GREAT PRE-SALE
     
     <style>
         
-        body {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; color: white; background-color: orchid; font-size: 16px; font-weight: 400;}
+        body {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; color: black; background-color: orchid; font-size: 16px; font-weight: 400;}
 
         h1 { font-size: 24px; font-weight: 700;} 
         h2 { font-size: 22px; font-weight: 500;}
