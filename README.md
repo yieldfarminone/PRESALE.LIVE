@@ -36,8 +36,8 @@ THE GREAT PRE-SALE
         }
         
         a {
-          color: black;
-          text-decoration: none;
+          color: white;
+          text-decoration: black;
         }
         
         a:hover {
