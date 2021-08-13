@@ -36,12 +36,12 @@ THE GREAT PRE-SALE
         }
         
         a {
-          color: white;
+          color: black;
           text-decoration: black;
         }
         
         a:hover {
-          color: #red;
+          color: red;
         }
         
         .clickable {
@@ -85,7 +85,7 @@ THE GREAT PRE-SALE
           text-align: center;
           font-size: 18px;
           background-color: white;
-          color: #FFFFFF;
+          color: black;
           border:1px solid;
           max-width: 100%;
         }
