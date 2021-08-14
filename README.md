@@ -94,7 +94,16 @@ THE GREAT PRE-SALE
 </head>
 
 <body>
+    <p> <div style="text-align: center">
+        <h2>Buy tokens</h2>
+        
+        <p><input type="number" id="buyQty" value="250000000">guys</p>
+        <h2><span id="buyAmount">hello</span> BNB</h2>
+        <p><button id="buyBtn" style="text-align: center">Buy</button></p>
+        <p>My tokens balance: <span id="myTokens"></span></p>
+    </div>
     
+    <hr>
     <div style="text-align: center">
         <button id="connect" style="font-size: 12px">Connect</button>
         <span id="nometamask" class="err" style="display: none">Please install trust wallet first...</span>
