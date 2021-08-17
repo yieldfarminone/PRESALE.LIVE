@@ -1,5 +1,3 @@
-
-            
 THE GREAT PRE-SALE
 <html >
 <head>
@@ -28,7 +26,7 @@ THE GREAT PRE-SALE
         }
 
         .err {
-             color: black;
+             color:black ;
         }
 
         * {
@@ -37,7 +35,7 @@ THE GREAT PRE-SALE
         
         a {
           color: black;
-          text-decoration: black;
+          text-decoration: none;
         }
         
         a:hover {
@@ -98,25 +96,24 @@ THE GREAT PRE-SALE
     <div style="text-align: center">
         <button id="connect" style="font-size: 12px">Connect</button>
         <span id="nometamask" class="err" style="display: none">Please install trust wallet first...</span>
-        <div class="network small"><span id="curnet"><span class="err">Please use DApp browser/extension (e.g. <a target="_blank" href="https://trustwallet.com">Metamask</a>)</span></span> <span id="myAddr"></span>
+        <div class="network small"><span id="curnet"><span class="err">Please use DApp browser/extension (e.g. <a target="_blank" href="https://trustwallet.com">Trust wallet</a>)</span></span> <span id="myAddr"></span>
         <br>Referrer: <span id="referrer">none</span></div>
     </div>
     
     <div style="text-align: center">
         <h2>Token info</h2>
         <p><span id="tokenName">Yield Farming wallet</span> (<span id="tokenSymbol">YFW</span>)</p>
-         <p>  Yield farming Wallet(YFW) is an open and fast blockchain. Our mainnet runs Binance Smart Chain applications with 2-second transaction finality and 100 times lower fees. YFW’s secure bridges offer cross-chain asset transfers with Ethereum, Binance Smart chain and other chains. YFW serves as a platform for creators to connect with their community. Try our showcase below – an NFT marketplace with collectibles from hundreds of artists.      
         <p><a target="_blank" href="0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
         <!-- Reserved in case you want to show decimals and total supply: <span id="#tokenDecimalsUI"></span> <span id="#tokenSupplyUI"></span>-->
         <p><button id="addToken" style="text-align: center">Add to wallet</button></p>
+    </div>
     
-    <p>AutoBoost is a one of a kind function that has been built into our contract. Some are familiar with buy back tokens, our token is not just another buy back token. YFW AutoBoost function is built mathematically to do variable buybacks which adjust based on volume in order to maintain stability. AutoBoost will vary based on the transactions over the past 24 hours which will continue to adjust based on the volume. AutoBoost will buy back variable amounts every time a sale occurs with YFW token.This is a one of a kind function which is more powerful than just a standard buyback token.
     <hr>
     
     <div style="text-align: center">
         <h2>Token sale info</h2>
-        <p>Total sale quantity: <span id="quantity"></span></p>
-        <p>Token price: <span id="price"></span> <span class='eth'>BNB</span> (<span id="ratio"></span> tokens per 1 BNB)</p>
+        <p>Total sale quantity: <span id="quantity">800000000000</span></p>
+        <p>Token price: <span id="price">0.0000000002</span> <span class='eth'>BNB</span> (<span id="ratio">5B</span> tokens per 1 BNB)</p>
         <p><progress id="progress" value="0" max="100" style="width: 70%"></progress></p>
         <p>Tokens sold: <span id="sold"></span></p>
         <p>Total raised: <span id="raised"></span> <span class='eth'>BNB</span></p>
@@ -126,12 +123,12 @@ THE GREAT PRE-SALE
     </div>
     
     <hr>
-                
+    
     <div style="text-align: center">
         <h2>Buy tokens</h2>
         
         <p><input type="number" id="buyQty" value="250000000"></p>
-        <h2><span id="buyAmount">hello</span> BNB</h2>
+        <h2><span id="buyAmount"></span> BNB</h2>
         <p><button id="buyBtn" style="text-align: center">Buy</button></p>
         <p>My tokens balance: <span id="myTokens"></span></p>
     </div>
@@ -152,7 +149,7 @@ THE GREAT PRE-SALE
         <h2>Referral program</h2>
         <p>Share your referral link and get paid instantly to your wallet for every referred token purchase.</p>
         <p>Total paid to referrers: <span id="refTotal"></span> BNB</p>
-        <p>Referral commission: <span id="refPercent"></span>%</p>
+        <p>Referral commission: <span id="refPercent">2</span>%</p>
         <p>Your referral earnings: <span id="refMy"></span> BNB</p>
         
         <p>Share your referral link or QR code and get commission for referred token purchases instantly to your wallet.</p>
@@ -163,12 +160,11 @@ THE GREAT PRE-SALE
         </div>
         <p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
     </div>
-            
-            
-  © All rights reserved 2021          
     
 <script src='https://dappbuilder.org/js/jquery-3.6.0.min.js' type="text/javascript" charset="utf-8"></script>
 <script src='https://dappbuilder.org/js/ethers-5.0.umd.min.js' type="text/javascript" charset="utf-8"></script>
 <script src='https://dappbuilder.org/bsc/tokensalewithreferral/js/tokensale.ui.js' type="text/javascript" charset="utf-8"></script>
 
+</body>
+</html>
             
