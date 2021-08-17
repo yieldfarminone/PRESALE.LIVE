@@ -101,16 +101,7 @@ THE GREAT PRE-SALE
         <div class="network small"><span id="curnet"><span class="err">Please use DApp browser/extension (e.g. <a target="_blank" href="https://trustwallet.com">Metamask</a>)</span></span> <span id="myAddr"></span>
         <br>Referrer: <span id="referrer">none</span></div>
     </div>
-    <p> <div style="text-align: center">
-        <h2>Buy tokens</h2>
-        
-        <p><input type="number" id="buyQty" value="250000000">guys</p>
-        <h2><span id="buyAmount">hello</span> BNB</h2>
-        <p><button id="buyBtn" style="text-align: center">Buy</button></p>
-        <p>My tokens balance: <span id="myTokens"></span></p>
-    </div>
     
-    <hr>
     <div style="text-align: center">
         <h2>Token info</h2>
         <p><span id="tokenName">Yield Farming wallet</span> (<span id="tokenSymbol">YFW</span>)</p>
