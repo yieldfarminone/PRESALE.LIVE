@@ -126,6 +126,7 @@ THE GREAT PRE-SALE
     </div>
     
     <hr>
+                
     <div style="text-align: center">
         <h2>Buy tokens</h2>
         
