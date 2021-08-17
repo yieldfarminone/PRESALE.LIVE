@@ -41,7 +41,7 @@ THE GREAT PRE-SALE
         }
         
         a:hover {
-          color: white;
+          color: yellow;
         }
         
         .clickable {
