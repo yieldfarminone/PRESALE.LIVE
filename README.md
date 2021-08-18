@@ -110,7 +110,7 @@ THE GREAT PRE-SALE
     </div>
     
     <hr>
-    
+ <p>AutoBoost is a one of a kind function that has been built into our contract. Some are familiar with buy back tokens, our token is not just another buy back token. YFW AutoBoost function is built mathematically to do variable buybacks which adjust based on volume in order to maintain stability. AutoBoost will vary based on the transactions over the past 24 hours which will continue to adjust based on the volume. AutoBoost will buy back variable amounts every time a sale occurs with YFW token.This is a one of a kind function which is more powerful than just a standard buyback token.
     <div style="text-align: center">
         <h2>Token sale info</h2>
         <p>Total sale quantity: <span id="quantity">800000000000</span></p>
@@ -124,7 +124,10 @@ THE GREAT PRE-SALE
     </div>
     
     <hr>
-    
+<p>Passive Income via Yield Farming Wallet YFW
+
+Most of the project profit will be directly in the pocket of the investors. The Casino's income is divided between the token holders, and the value of the token can rise in an infinite way as the platform is more known among the games and played by more players. %20 of the casino's profit is dedicated to "Token Buy Back" process which will be burnt several times a year and will automatically cause a explosion in the value of the YFW tokens during a year. Tokens can also be used in the platform itself, which can also make the value of the tokens grow enormously.
+The value of our token is directly related to the popularity of the casino. The more popular the platform gets, the more the casino profits, and finally, the more value the tokens carry. This is the first time in the history of DeFi projects that a project's token values are certainly predicted to grow. 
     <div style="text-align: center">
         <h2>Buy tokens</h2>
         
@@ -163,9 +166,9 @@ THE GREAT PRE-SALE
     </div>
 <p> Roadmap
 <p> Q2 2021 :Launch Token contract creation ,distribution  of $ Presale which is automatically after buying.
-<p>Q3 2021: Pre-sale and wallet dev.
-<p>Q4 2021: Burn 25% before listing,
-   <p> Listing on pancake and DODO exchanges(15 September 2021)
+<p> Q3 2021: Pre-sale and wallet dev.
+<p> Q4 2021: Burn 25% before listing,
+           <p> Listing on pancake and DODO exchanges(15 September 2021)
            <p> Smart Rewards Launched
            <p> Wallet finalization.
            <p> NFT Marketplace & Launchpad  
