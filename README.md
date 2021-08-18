@@ -4,9 +4,9 @@
         <div class="network small"><span id="curnet"><span class="err">Please use DApp browser/extension (e.g. <a target="_blank" href="https://trustwallet.com">Trust wallet</a>)</span></span> <span id="myAddr"></span>
         <br>Referrer: <span id="referrer">none</span></div>
     </div>
-<p> THE GREAT PRE-SALE OF 2021
+THE GREAT PRE-SALE OF 2021
 ![11](https://user-images.githubusercontent.com/88710981/129864264-4c850023-25fa-48a7-9c65-9bb9de7bfdbc.jpg)
-                               THE GREAT PRE-SALE OF 2021
+                               
 <html >
 <head>
     <meta charset="UTF-8">
