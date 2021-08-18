@@ -34,7 +34,7 @@ THE GREAT PRE-SALE OF 2021
         }
 
         .err {
-             color:black ;
+             color:white ;
         }
 
         * {
