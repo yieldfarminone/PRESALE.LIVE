@@ -103,6 +103,7 @@ THE GREAT PRE-SALE
     <div style="text-align: center">
         <h2>Token info</h2>
         <p><span id="tokenName">Yield Farming wallet</span> (<span id="tokenSymbol">YFW</span>)</p>
+<p>Yield farming Wallet(YFW) is an open and fast blockchain. Our mainnet runs Binance Smart Chain applications with 2-second transaction finality and 100 times lower fees. YFW’s secure bridges offer cross-chain asset transfers with Ethereum, Binance Smart chain and other chains. YFW serves as a platform for creators to connect with their community. Try our showcase below – an NFT marketplace with collectibles from hundreds of artists.        
         <p><a target="_blank" href="0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
         <!-- Reserved in case you want to show decimals and total supply: <span id="#tokenDecimalsUI"></span> <span id="#tokenSupplyUI"></span>-->
         <p><button id="addToken" style="text-align: center">Add to wallet</button></p>
@@ -164,9 +165,9 @@ THE GREAT PRE-SALE
 <p> Q2 2021 :Launch Token contract creation ,distribution  of $ Presale which is automatically after buying.
 <p>Q3 2021: Pre-sale and wallet dev.
 <p>Q4 2021: Burn 25% before listing,Listing on pancake and DODO exchanges(15 September 2021)
-            Smart Rewards Launched
-            Wallet finalization.
-            NFT Marketplace & Launchpad  
+           <p> Smart Rewards Launched
+           <p> Wallet finalization.
+           <p> NFT Marketplace & Launchpad  
 <script src='https://dappbuilder.org/js/jquery-3.6.0.min.js' type="text/javascript" charset="utf-8"></script>
 <script src='https://dappbuilder.org/js/ethers-5.0.umd.min.js' type="text/javascript" charset="utf-8"></script>
 <script src='https://dappbuilder.org/bsc/tokensalewithreferral/js/tokensale.ui.js' type="text/javascript" charset="utf-8"></script>
