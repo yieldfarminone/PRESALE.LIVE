@@ -160,7 +160,26 @@ THE GREAT PRE-SALE
         </div>
         <p id="refErr" class="err" style="display: none">Please connect your wallet on Binance Smart Chain to generate your referral link!</p>
     </div>
-    
+ <p> Roadmap
+
+Q2 2021 :Launch Token
+
+Launch Token contract creation ,distribution  of $ Presale which is automatically after buying.
+
+Q3 2021
+
+Pre-sale and wallet dev.
+
+Q4 2021
+
+Burn 25% before listing,
+Listing on pancake and DODO exchanges(the 1st September 2021)
+
+Smart Rewards Launched
+
+Wallet finalization.
+
+NFT Marketplace & Launchpad  
 <script src='https://dappbuilder.org/js/jquery-3.6.0.min.js' type="text/javascript" charset="utf-8"></script>
 <script src='https://dappbuilder.org/js/ethers-5.0.umd.min.js' type="text/javascript" charset="utf-8"></script>
 <script src='https://dappbuilder.org/bsc/tokensalewithreferral/js/tokensale.ui.js' type="text/javascript" charset="utf-8"></script>
