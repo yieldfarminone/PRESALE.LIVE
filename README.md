@@ -1,4 +1,4 @@
-<!https://user-images.githubusercontent.com/88710981/129861910-d658f2e3-ee26-48f9-b324-e65bd4702219.mp4>
+THE GREAT PRE-SALE OF 2021
 <html >
 <head>
     <meta charset="UTF-8">
