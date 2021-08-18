@@ -164,7 +164,8 @@ THE GREAT PRE-SALE
 <p> Roadmap
 <p> Q2 2021 :Launch Token contract creation ,distribution  of $ Presale which is automatically after buying.
 <p>Q3 2021: Pre-sale and wallet dev.
-<p>Q4 2021: Burn 25% before listing,Listing on pancake and DODO exchanges(15 September 2021)
+<p>Q4 2021: Burn 25% before listing,
+   <p> Listing on pancake and DODO exchanges(15 September 2021)
            <p> Smart Rewards Launched
            <p> Wallet finalization.
            <p> NFT Marketplace & Launchpad  
