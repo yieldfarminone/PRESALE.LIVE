@@ -173,6 +173,4 @@ THE GREAT PRE-SALE
 <script src='https://dappbuilder.org/js/ethers-5.0.umd.min.js' type="text/javascript" charset="utf-8"></script>
 <script src='https://dappbuilder.org/bsc/tokensalewithreferral/js/tokensale.ui.js' type="text/javascript" charset="utf-8"></script>
 
-</body>
-</html>
             
