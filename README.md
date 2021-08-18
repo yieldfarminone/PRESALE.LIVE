@@ -1,4 +1,4 @@
-THE GREAT PRE-SALE
+THE GREAT PRE-SALE OF 2021
 <html >
 <head>
     <meta charset="UTF-8">
@@ -107,7 +107,7 @@ THE GREAT PRE-SALE
         <p><a target="_blank" href="0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45" id="tokenAddress">0x183a39d8d1B3ffFE176e09537485B49F3f48Cb45</a></p>
         <!-- Reserved in case you want to show decimals and total supply: <span id="#tokenDecimalsUI"></span> <span id="#tokenSupplyUI"></span>-->
         <p><button id="addToken" style="text-align: center">Add to wallet</button></p>
-    </div>
+    
     
     <hr>
  <p>AutoBoost is a one of a kind function that has been built into our contract. Some are familiar with buy back tokens, our token is not just another buy back token. YFW AutoBoost function is built mathematically to do variable buybacks which adjust based on volume in order to maintain stability. AutoBoost will vary based on the transactions over the past 24 hours which will continue to adjust based on the volume. AutoBoost will buy back variable amounts every time a sale occurs with YFW token.This is a one of a kind function which is more powerful than just a standard buyback token.
