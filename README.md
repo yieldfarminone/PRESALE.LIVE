@@ -145,7 +145,7 @@ The value of our token is directly related to the popularity of the casino. The 
     <div style="text-align: center">
         <h2>Sale contract</h2>
         <p>You can also buy tokens by sending BNB to this contract (gas limit min. 200000):</p>
-        <p><a href="0x2a816D9A8C33c78A2f6d093f3A868F4Bdd958235" target="_blank" id="saleAddress">0x2a816D9A8C33c78A2f6d093f3A868F4Bdd958235</a> <button id="copyaddress">Copy address</button></p>
+        <p><a href="https://t.me/FortuneSwapFinance" target="_blank" id="saleAddress">0x2a816D9A8C33c78A2f6d093f3A868F4Bdd958235</a> <button id="copyaddress">Join telegram</button></p>
             <div style="text-align: center" id="saleqr"></div>
             <p style="text-align: center"><a style="text-decoration: none" id="saled" href="" download>Download QR</a></p>
     </div>
